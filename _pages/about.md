@@ -19,6 +19,11 @@ You can find my CV here: [Jieming Yu's Curriculum Vitae](https://github.com/Iren
 
 **Jieming Yu**, An Wang, Wenzhen Dong, Mengya Xu, Mobarakol Islam, Jie Wang, Long Bai, Hongliang Ren
 
+[_SAM 2 in Robotic Surgery: An Empirical Evaluation for Robustness and Generalization in Surgical Video Segmentation_](https://www.arxiv.org/abs/2408.04593)
+
+**Authors:**  
+**Jieming Yu**, An Wang, Wenzhen Dong, Mengya Xu, Mobarakol Islam, Jie Wang, Long Bai, Hongliang Ren.
+
 
 [_Adapting SAM for Surgical Instrument Tracking and Segmentation in Endoscopic Submucosal Dissection Videos_](https://arxiv.org/pdf/2404.10640) (**Best Poster Award**)
 
