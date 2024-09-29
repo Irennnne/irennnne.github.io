@@ -9,7 +9,7 @@ redirect_from:
 
 Hello! I am currently an undergraduate student at the Chinese University of Hong Kong, majoring in Artificial Intelligence: Systems & Technologies. My research interests lie in the application of artificial intelligence across various domains, including robotic perception, medical image analysis, and natural language processing.
 
-I am currently gaining valuable experience as a research intern at the Robotics, Embodied AI, and Navigation In Vivo Lab, under the supervision of Prof. Hongliang Ren. In addition, I am also interning at SenseTime.
+I am currently gaining valuable experience as a research intern at the Robotics, Embodied AI, and Navigation In Vivo Lab under the supervision of Prof. Hongliang Ren. Additionally, I am working as an algorithm research intern at SenseTime. My recent projects include text-to-image generation and the evaluation of large language models (LLMs).
 
 You can find my CV here: [Jieming Yu's Curriculum Vitae](https://github.com/Irennnne/irennnne.github.io/blob/master/assets/CV_jieming_yu.pdf).
 
