@@ -14,7 +14,12 @@ I am currently gaining valuable experience as a research intern at the Robotics,
 You can find my CV here: [Jieming Yu's Curriculum Vitae](https://github.com/Irennnne/irennnne.github.io/blob/master/assets/CV_jieming_yu.pdf).
 
 
+## Publications
+_SAM 2 in Robotic Surgery: An Empirical Evaluation for Robustness and Generalization in Surgical Video Segmentation_
+**Jieming Yu**, An Wang, Wenzhen Dong, Mengya Xu, Mobarakol Islam, Jie Wang, Long Bai, Hongliang Ren
 
+_Adapting SAM for Surgical Instrument Tracking and Segmentation in Endoscopic Submucosal Dissection Videos_ (**Best Poster Award**)
+**Jieming Yu**, Long Bai, Guankun Wang, An Wang, Xiaoxiao Yang, Huxin Gao, Hongliang Ren
 
 
 
