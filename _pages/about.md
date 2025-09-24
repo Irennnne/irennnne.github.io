@@ -31,7 +31,7 @@ My recent projects include text-to-image generation and diffusion models. My res
   *IEEE ICRA C4SR+ Workshop*, 2024.  
   **(Best Poster Award)**
 
-- **[_ Surgical Blender: A Synthetic Dataset Generator for Robot-Assisted Surgery_]()**  
+- **[_Surgical Blender: A Synthetic Dataset Generator for Robot-Assisted Surgery_]()**  
   Mengya Xu, **Jieming Yu**, Omer Raza, An Wang, Minghung Ma, Hongliang Ren. 
   *Under review*
 
