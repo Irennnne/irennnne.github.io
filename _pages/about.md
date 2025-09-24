@@ -32,6 +32,6 @@ My recent projects include text-to-image generation and diffusion models. My res
   **(Best Poster Award)**
 
 - **[_Surgical Blender: A Synthetic Dataset Generator for Robot-Assisted Surgery_]()**  
-  Mengya Xu, **Jieming Yu**, Omer Raza, An Wang, Minghung Ma, Hongliang Ren. 
+  Mengya Xu, **Jieming Yu**, Omer Raza, An Wang, Minghung Ma, Hongliang Ren.
   *Under review*
 
