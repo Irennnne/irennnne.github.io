@@ -35,3 +35,8 @@ My recent projects include text-to-image generation and diffusion models. My res
   Mengya Xu, **Jieming Yu**, Omer Raza, An Wang, Minghung Ma, Hongliang Ren.
   *Under review*
 
+## Links
+CUHK course cheatsheets: https://github.com/Irennnne/cuhk-cheatsheet  
+CUHK cse server setup: https://github.com/Irennnne/cse-server-conda-setup
+
+
