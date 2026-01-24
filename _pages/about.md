@@ -36,7 +36,7 @@ My recent projects include text-to-image generation and diffusion models. My res
   *Under review*
 
 ## Links
-CUHK course cheatsheets: https://github.com/Irennnne/cuhk-cheatsheet  
-CUHK cse server setup: https://github.com/Irennnne/cse-server-conda-setup
+CUHK course cheatsheets: [https://github.com/Irennnne/cuhk-cheatsheet](https://github.com/Irennnne/cuhk-cheatsheet)  
+CUHK cse server setup: [https://github.com/Irennnne/cse-server-conda-setup](https://github.com/Irennnne/cse-server-conda-setup)
 
 
