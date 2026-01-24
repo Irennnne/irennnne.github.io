@@ -7,11 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an undergraduate student at The Chinese University of Hong Kong (CUHK), majoring in Artificial Intelligence: Systems & Technologies. I will join The Hong Kong University of Science and Technology (HKUST) to pursue my Ph.D. study, supervised by Prof. Albert C.S. Chung, starting in Fall 2025. 
+I am currently a Ph.D. student in the Department of Computer Science and Engineering
+at The Hong Kong University of Science and Technology (HKUST), supervised by [Prof. Albert C.S. Chung](https://www.cse.ust.hk/~achung/). I obtained my bachelor's degree from The Chinese University of Hong Kong (CUHK),
+majoring in Artificial Intelligence: Systems & Technologies.
 
-Presently, I am gaining valuable research experience as an intern at the Robotics, Embodied AI, and Navigation In Vivo Lab, under the supervision of Prof. Hongliang Ren and Dr. Long Bai. Additionally, I worked as an algorithm research intern at SenseTime from July 2024 to July 2025, where I contributed to the iteration of SenseChat and SenseNova. 
+Previously, I conducted research at the Robotics, Embodied AI, and Navigation In Vivo Lab, under the supervision of [Prof. Hongliang Ren](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang) and [Dr. Long Bai](https://longbai-cuhk.github.io).
+I also worked as an algorithm research intern at SenseTime from July 2024 to July 2025, where I contributed to the development of SenseChat and SenseNova.
 
-My recent projects include text-to-image generation and diffusion models. My research interests focus on the application of artificial intelligence across diverse domains, such as robotic perception, medical image analysis, and natural language processing.
+My recent projects focus on text-to-image generation and diffusion models. My research interests include robotic perception, medical image analysis,
+and natural language processing.
 
 
 ## Publications
